@@ -32,6 +32,6 @@ Parce que l’histoire a tendance à se répéter. Les scams et projets douteux 
 
 ---
 
-Alors voilà, **Crypto Mémoire**, c’est un mélange de nostalgie crypto, d’analyse décontractée et d’histoires fascinantes. Installez-vous confortablement et laissez-vous embarquer dans ce voyage à travers les souvenirs d’un monde crypto en constante évolution.
+Alors voilà, **Crypto Mémoire**, c’est un mélange de nostalgie crypto, d’analyse décontractée et d’histoires fascinantes.
 
 🚀 *Bonne lecture !*
