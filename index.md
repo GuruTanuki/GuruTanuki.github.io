@@ -1,6 +1,7 @@
 ---
 title: "Home"
 layout: home
+nav_order: 1
 ---
 
 # Crypto Mémoire : Les Projets Crypto Tombés dans l’Oubli
