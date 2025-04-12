@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "1.EOS : De la hype à la réalité"
+title: "EOS : De la hype à la réalité"
 categories: "crypto"
 nav_order: 2
 ---
