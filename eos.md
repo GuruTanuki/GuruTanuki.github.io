@@ -1,8 +1,8 @@
 ---
 layout: default
 title: EOS : De la hype à la réalité
-categories: [crypto]
-nav_order: 2
+parent: Crypto
+nav_order: 1
 ---
 
 # EOS : De la hype à la réalité

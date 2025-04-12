@@ -2,6 +2,11 @@ title: Crypto Mémoire
 description: Les scams et projets douteux n’ont pas disparu ! Ils ont juste changé de forme.
 theme: just-the-docs
 
+just_the_docs:
+  collections:
+    pages:
+      output: true
+
 url: https://just-the-docs.github.io
 
 aux_links:
