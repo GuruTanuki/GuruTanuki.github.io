@@ -1,11 +1,18 @@
 ---
 layout: default
-title: "EOS : De la hype à la réalité"
+title: EOS : De la hype à la réalité
 parent: Crypto
 nav_order: 1
+license: CC BY-ND 4.0
+author: GuruTanuki_
 ---
 
 # EOS : De la hype à la réalité
+
+license: CC BY-ND 4.0
+Auteur : GuruTanuki_  
+X : [@GuruTanuki_](https://x.com/GuruTanuki_)
+Date : 13-04-2025
 
 ## **1. La genèse d’EOS : Un projet ambitieux porté par Block.one**
 
