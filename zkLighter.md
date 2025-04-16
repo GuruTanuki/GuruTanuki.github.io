@@ -11,8 +11,8 @@ license: CC BY-ND 4.0
 # ZkLighter Protocol : Point de vue Technique
 
 license: CC BY-ND 4.0
-*Auteur : GuruTanuki_  
-X : [@GuruTanuki_](https://x.com/GuruTanuki_)*
+Auteur : GuruTanuki_  
+X : [@GuruTanuki_](https://x.com/GuruTanuki_)
 
 ---
 
@@ -42,6 +42,7 @@ Le moteur de correspondance est hautement optimisé, capable (d’après le whit
 
 zkLighter se présente comme une primitive pour construire de nouvelles plateformes de trading numérique haute performance et sécurisées, en commençant par une bourse de contrats à terme perpétuels (perpetual futures).
 
+![Revolution zkLighter](/assets/zkLighter/Revolution%20zkLighter.png)
 ---
 
 ## Architecture du Protocole zkLighter
@@ -74,6 +75,7 @@ ZkLighter utilise un schéma de pré-engagement pour garantir la finalité insta
 - Gèrent la file d'attente des transactions prioritaires (ex : retraits résistants à la censure), forçant leur inclusion par le Sequencer dans un délai imparti. Si le Sequencer échoue, les Smart Contracts activent le mécanisme Exit Hatch.
 - Implémentent la logique de vérification pour le flux de pré-engagement assurant la finalité instantanée.
 
+![Transaction zkLighter](/assets/zkLighter/Transaction%20zkLighter.png)
 ---
 
 ## Structure de l'État zkLighter
@@ -104,6 +106,7 @@ L'état complet de zkLighter est encapsulé dans un ensemble de structures de do
 - **Instruction Register** : Registre pour gérer les opérations nécessitant de modifier plusieurs feuilles d'arbres de Merkle en un seul "événement" logique.
 - **Market Metadata** : Informations cruciales sur chaque marché (prix d'indice, prix de marque, configuration de marge, données pour le financement) incluses dans les données de chaque bloc publié on-chain.
 
+![Architecture zkLighter](/assets/zkLighter/Architecture%20zkLighter.png)
 ---
 
 ## Mécanismes et Processus Clés
@@ -133,6 +136,7 @@ L'état complet de zkLighter est encapsulé dans un ensemble de structures de do
 - **Déploiement et Limitation de Taux** : Prévu sur Ethereum. Contrats initialement améliorables via timelock, puis rendus immuables. Des limiteurs de taux dynamiques sont mis en place au niveau du Sequencer pour prévenir les attaques DDoS et le spamming.
 - **Résistance au MEV** : L'architecture garantit la priorité prix-temps, limitant le MEV par réorganisation. Des recherches sont en cours pour minimiser davantage le MEV (séquençage équitable, chiffrement temporel).
 
+![Protocol zkLighter](/assets/zkLighter/Protocol%20zkLighter.png)
 ---
 
 ## Conclusion et Travaux Futurs
