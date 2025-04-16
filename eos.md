@@ -113,3 +113,5 @@ Certains ont même comparé cet incident au hard fork controversé d’Ethereum 
 3. [La Fondation EOS poursuit Block.one](https://coinacademy.fr/actu/fondation-eos-poursuit-block-one-un-milliard/)
 4. [Is EOS Dead? What Happened to the Ethereum Killer?](https://coinmarketcap.com/academy/article/is-eos-dead-what-happened-to-the-ethereum-killer)
 5. [EOS' Biggest Problem Is Governance, Not The ICO](https://cryptobriefing.com/eos-governance-ico-settlement/)
+
+EOS : De la hype à la réalité © 2025 by GuruTanuki_ is licensed under CC BY-ND 4.0 

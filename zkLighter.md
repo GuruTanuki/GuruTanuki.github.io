@@ -167,3 +167,5 @@ Bon, on a gratté dans le sens du poil, voilà maintenant mon avis sans filtre.
 Par contre, je suis ravi de voir enfin un projet vouloir apporter des solutions au problème du MEV !
 
 En bref, on manque d'historique ! Le projet, sur le papier, est vraiment cool, mais il reste du chemin avant de voir leur réelle avancée.
+
+ZkLighter Protocol: Point de vue Technique © 2025 by GuruTanuki_ is licensed under CC BY-ND 4.0 
