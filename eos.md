@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EOS : De la hype à la réalité
+title: "EOS : De la hype à la réalité"
 parent: Crypto
 nav_order: 1
 license: CC BY-ND 4.0
