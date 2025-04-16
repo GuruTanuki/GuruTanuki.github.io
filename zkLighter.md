@@ -43,6 +43,7 @@ Le moteur de correspondance est hautement optimisé, capable (d’après le whit
 zkLighter se présente comme une primitive pour construire de nouvelles plateformes de trading numérique haute performance et sécurisées, en commençant par une bourse de contrats à terme perpétuels (perpetual futures).
 
 ![Revolution zkLighter](/assets/zkLighter/Revolution%20zkLighter.png)
+
 ---
 
 ## Architecture du Protocole zkLighter
@@ -76,6 +77,7 @@ ZkLighter utilise un schéma de pré-engagement pour garantir la finalité insta
 - Implémentent la logique de vérification pour le flux de pré-engagement assurant la finalité instantanée.
 
 ![Transaction zkLighter](/assets/zkLighter/Transaction%20zkLighter.png)
+
 ---
 
 ## Structure de l'État zkLighter
@@ -107,6 +109,7 @@ L'état complet de zkLighter est encapsulé dans un ensemble de structures de do
 - **Market Metadata** : Informations cruciales sur chaque marché (prix d'indice, prix de marque, configuration de marge, données pour le financement) incluses dans les données de chaque bloc publié on-chain.
 
 ![Architecture zkLighter](/assets/zkLighter/Architecture%20zkLighter.png)
+
 ---
 
 ## Mécanismes et Processus Clés
@@ -137,6 +140,7 @@ L'état complet de zkLighter est encapsulé dans un ensemble de structures de do
 - **Résistance au MEV** : L'architecture garantit la priorité prix-temps, limitant le MEV par réorganisation. Des recherches sont en cours pour minimiser davantage le MEV (séquençage équitable, chiffrement temporel).
 
 ![Protocol zkLighter](/assets/zkLighter/Protocol%20zkLighter.png)
+
 ---
 
 ## Conclusion et Travaux Futurs
